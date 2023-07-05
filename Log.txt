@@ -1,6 +1,0 @@
-
-Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: teste
-Número do Assento: 20
-Data e Hora: 2023-07-04 16:41
